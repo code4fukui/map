@@ -1,6 +1,8 @@
 # Map Application
 
-One-sentence description: A simple map application that displays locations from a CSV file.
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
+A simple map application that displays locations from a CSV file.
 
 ## Demo
 [Try the demo](https://code4fukui.github.io/map/)
