@@ -30,4 +30,4 @@ A simple map application that displays locations from a CSV file.
    ```
 
 ## License
-This project is licensed under the MIT License.
+MIT License — see [LICENSE](LICENSE).
